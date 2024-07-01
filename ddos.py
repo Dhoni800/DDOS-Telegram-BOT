@@ -4,7 +4,7 @@ import socket
 import sys
 
 # Telegram API token
-TOKEN = "YOUR TOKEN HERE"
+TOKEN = "7177387525:AAGXqbnU5xVM_yhPkeqVEnzbZCJC7ovBHMY"
 
 
 # Admin chat ID
