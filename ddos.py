@@ -8,10 +8,10 @@ TOKEN = "YOUR TOKEN HERE"
 
 
 # Admin chat ID
-ADMIN_CHAT_ID = YOUR_ID_HERE
+ADMIN_CHAT_ID = 7399224844
 
 # Initialize bot
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(7177387525:AAGXqbnU5xVM_yhPkeqVEnzbZCJC7ovBHMY)
 
 # Function to check if input is a valid IP address
 def is_valid_ip(ip):
